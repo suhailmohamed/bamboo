@@ -48,7 +48,7 @@ const SecondFold = () => {
               <p>Bamboo Garden Cafe's popularity just keeps on growing as more customers discover the food, coffee and value of this fantastic dining destination and become regulars.</p>
             </div>
             <div className="col-sm-6 vertical-bottom">
-              <img src="/images/second-fold-titles.png" alt="second-fold-titles" />
+              <img src="./images/second-fold-titles.png" alt="second-fold-titles" />
             </div>
           </div>
         </div>
