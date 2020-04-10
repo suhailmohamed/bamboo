@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/bamboo/precache-manifest.d51f0e08f103cab7ac57a5ebaad5c993.js"
+  "/bamboo/precache-manifest.fc3a9333af52c17e1c91d86cd95386c2.js"
 );
 
 workbox.clientsClaim();
